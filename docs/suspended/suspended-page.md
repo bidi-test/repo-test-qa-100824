@@ -9,4 +9,4 @@ this edit was made while the bidi sync was suspended
 
 <br />
 
-this edit was made after I unsuspended it
+this edit was made in git after I unsuspended it
